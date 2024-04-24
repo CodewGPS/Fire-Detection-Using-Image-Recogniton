@@ -1,7 +1,7 @@
 # Fire Detection using Image Recognition on Raspberry Pi
 
 ## Overview
-This project utilizes image recognition techniques to detect fires using YOLOv5 on a Raspberry Pi. The model is trained on a dataset from Roboflow. 
+This project utilizes image recognition techniques to detect fires using YOLOv5 on a Raspberry Pi. The model is trained on a dataset from Roboflow. Refer to the inferences page for inferences and more details.
 
 ## Features
 - Detects fires in images and video streams in real-time.
