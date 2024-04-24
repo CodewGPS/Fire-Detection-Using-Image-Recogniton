@@ -8,7 +8,6 @@ This project utilizes image recognition techniques to detect fires using YOLOv5 
 - Optimized for running on resource-constrained devices like Raspberry Pi.
 - Utilizes the YOLOv5 object detection framework.
 - Preprocessed and trained on a dataset from Roboflow.
-- 
 ## Dataset
 The dataset used for training this model is obtained from https://universe.roboflow.com/-jwzpw/continuous_fire. It consists of images containing various instances of fires.
 
